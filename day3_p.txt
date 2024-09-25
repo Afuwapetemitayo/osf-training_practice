@@ -1,1 +1,3 @@
 practicing for day 3
+
+file committed to github
